@@ -1,5 +1,5 @@
 # PHP Rootkit
-PHP module based rootkit to intercept standard-library & module function calls.
+PHP module based rootkit to intercept standard-library & module function calls. For a full explanation of what this is, why it was made and how it works, please refer to my blog post [Your interpreter isn’t safe anymore — The PHP module rootkit](https://blog.paradoxis.nl/your-interpreter-isnt-safe-anymore-the-php-module-rootkit-c7ca6a1a9af5).
 
 
 ## Compilation
