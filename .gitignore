@@ -1,0 +1,3 @@
+lib/php-src/
+**/*.lo
+**/.libs
