@@ -4,6 +4,7 @@ PHP module based rootkit to intercept standard-library & module function calls.
 
 ## Compilation
 To prevent malicious script kiddies from getting their hands on a weaponized PHP module, I've removed the compilation instructions alongside the implementation of the method hooks. 
+
 Furthermore, I will not be releasing pre-compiled binaries. Any semi-experienced C developer should be able to find out how to compile PHP modules and implement the the `rootkit_hook_function` 
 method.
 
